@@ -1,0 +1,59 @@
+{
+    "page_title": "Deuja's Profile",
+    "site_name": "Portfolio",
+    "hero_title": "Welcome to My Portfolio",
+    "hero_subtitle": "I am a Web Developer | Data Science | AI Enthusiast",
+    "about_text": "Hello! My name is Shankar deuja...",
+    "about_image_url": "https://final-project-deuja.netlify.app/static/media/img.07a0c797a79ccbf54710.jpeg",
+    "nav_links": [
+        { "id": "about", "name": "About" },
+        { "id": "projects", "name": "Projects" },
+        { "id": "contact", "name": "Contact" }
+    ],
+    "skills": [
+        { "name": "JavaScript", "rating": "★★★☆☆" },
+        { "name": "ReactJs", "rating": "★★★☆☆" },
+        { "name": "Python", "rating": "★★★☆☆" },
+        { "name": "Data science", "rating": "★★★☆☆" },
+        { "name": "Web Development", "rating": "★★★★☆" }
+    ],
+    "projects": [
+        {
+            "title": "Old Portfolio",
+            "description": "Portfolio wsing ReactJs.",
+            "image_url": "",
+            "link": "https://shankardeuja.netlify.app/"
+        },
+        {
+            "title": "Auto Complete",
+            "description": "Auto Complete Search Bar with fake contacts using API",
+            "image_url": "static/images/Auto.jpg",
+            "link": "https://deft-llama-21c8c2.netlify.app/"
+        },
+        {
+            "title": "Images from Unplash.com",
+            "description": "Photos loading from Unplash.com",
+            "image_url": "static/images/Photos.jpg",
+            "link": "https://splendid-eclair-05c6cd.netlify.app/"
+        },
+        {
+            "title": "Project 2",
+            "description": "CRUD Contact Application",
+            "image_url": "https://via.placeholder.com/350x250",
+            "link": "https://binitadhakal.pythonanywhere.com/"
+        },
+        {
+            "title": "Add Contact with Phone",
+            "description": "Adding Contact with Reactjs And Netlify",
+            "image_url": "static/images/Contact.jpg",
+            "link": "https://thap-contact.netlify.app/"
+        },
+        {
+            "title": "Digital Media Final Project",
+            "description": " Gender Norms and Stereotypes. ",
+            "image_url": "https://final-project-deuja.netlify.app/static/media/main.dd69d6a1e2e711f1360a.png",
+            "link": "https://final-project-deuja.netlify.app/about"
+        }
+    ],
+    "contact_form_action": "https://formspree.io/f/xpwqrvww"
+}
